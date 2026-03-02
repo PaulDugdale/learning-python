@@ -1,3 +1,10 @@
+---
+layout: default
+title: "01: Data Types"
+parent: Exercises
+nav_order: 1
+---
+
 # 1. Data Types — Exercises
 
 > Syllabus topic: Data Types (AQA 3.2.1 / OCR 2.1)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Syllabus
+nav_order: 2
+---
+
 # GCSE Python Programming Syllabus
 
 > A complete guide to every Python programming topic you need for GCSE Computer Science.

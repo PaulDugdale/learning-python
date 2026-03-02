@@ -1,0 +1,12 @@
+title: GCSE Python
+description: Free resources for learning Python for GCSE Computer Science
+remote_theme: just-the-docs/just-the-docs
+
+url: https://pauldugdale.github.io
+baseurl: /learning-python
+
+color_scheme: light
+search_enabled: true
+
+aux_links:
+  "GitHub": https://github.com/PaulDugdale/learning-python

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tips for Parents and Kids
+nav_order: 3
+---
+
 # Learning Python for GCSE — Tips for Parents and Kids
 
 > A practical guide for families tackling GCSE Computer Science Python together.
